@@ -1,10 +1,14 @@
 ## learn-java
 
 下载代码
+
+打包learn-java-annotation-1.0-SNAPSHOT.jar
+
+```
 cd annotation
 mvn clean install
-learn-java-annotation-1.0-SNAPSHOT.jar
 
+```
 
 example of learn java
 
